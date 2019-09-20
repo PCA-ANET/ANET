@@ -1,0 +1,77 @@
+{
+  "name": "dev-front-ebanking",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.4.0",
+    "@material-ui/icons": "^4.2.1",
+    "@react-pdf/renderer": "^1.6.4",
+    "@react-pdf/styled-components": "^1.4.0",
+    "antd": "^3.23.3",
+    "axios": "^0.19.0",
+    "babel-polyfill": "^6.26.0",
+    "formik": "^1.5.8",
+    "history": "^4.9.0",
+    "i18next": "^17.0.6",
+    "mdbreact": "^4.19.1",
+    "numeral": "^2.0.6",
+    "patch-package": "^6.1.2",
+    "react": "^16.8.6",
+    "react-csv": "^1.1.1",
+    "react-data-table-component": "^3.2.0",
+    "react-dom": "^16.8.6",
+    "react-i18next": "^10.11.4",
+    "react-redux": "^7.1.0",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "react-select": "^3.0.4",
+    "redux": "^4.0.4",
+    "redux-saga": "^1.0.5",
+    "reselect": "^4.0.0",
+    "styled-components": "^4.3.2",
+    "url-search-params-polyfill": "^7.0.0",
+    "yup": "^0.27.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "postinstall": "patch-package",
+    "lint": "npm run lint:eslint -- .",
+    "lint:eslint": "eslint --ignore-path .gitignore",
+    "lint:eslint:fix": "eslint --ignore-path .gitignore --fix .",
+    "lint:staged": "lint-staged"
+  },
+  "lint-staged": {
+    "*.{js, jsx}": [
+      "npm run lint:eslint:fix",
+      "git add --force"
+    ],
+    "*.json": [
+      "prettier --write",
+      "git add --force"
+    ]
+  },
+  "pre-commit": "lint:staged",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^6.2.0",
+    "eslint-import-resolver-webpack": "^0.11.1",
+    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-redux-saga": "^1.1.0",
+    "lint-staged": "^9.2.5",
+    "prettier": "^1.18.2"
+  }
+}

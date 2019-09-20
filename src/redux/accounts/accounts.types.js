@@ -1,0 +1,9 @@
+const AccountsActionTypes = {
+  GET_ACCOUNTS: 'GET_ACCOUNTS',
+  SELECT_ACCOUNT: 'SELECT_ACCOUNT',
+  GET_SIGNALETIC: 'GET_SIGNALETIC',
+  TOGGLE_MODAL: 'TOGGLE_MODAL',
+  ACTIVATE_TAB: 'ACTIVATE_TAB',
+};
+
+export default AccountsActionTypes;

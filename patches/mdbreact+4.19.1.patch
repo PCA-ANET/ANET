@@ -1,0 +1,167 @@
+diff --git a/node_modules/mdbreact/dist/mdbreact.esm.js b/node_modules/mdbreact/dist/mdbreact.esm.js
+index 906eb99..6c7d1c6 100644
+--- a/node_modules/mdbreact/dist/mdbreact.esm.js
++++ b/node_modules/mdbreact/dist/mdbreact.esm.js
+@@ -2359,6 +2359,7 @@ styleInject(css$4);
+ 
+ var Table = function Table(props) {
+   var autoWidth = props.autoWidth,
++  
+       bordered = props.bordered,
+       borderless = props.borderless,
+       btn = props.btn,
+@@ -2540,7 +2541,7 @@ var DataTableTable = function DataTableTable(props) {
+       attributes = _objectWithoutProperties(props, ["autoWidth", "bordered", "borderless", "btn", "children", "columns", "dark", "fixed", "hover", "handleSort", "responsive", "responsiveSm", "responsiveMd", "responsiveLg", "responsiveXl", "rows", "small", "sortable", "sorted", "striped", "tbodyColor", "tbodyTextWhite", "theadColor", "theadTextWhite"]);
+ 
+   return React.createElement("div", {
+-    className: "col-sm-12"
++    className: "col-sm-12 sm-mt-20 sm-mb-20"
+   }, React.createElement(Table, _extends({
+     autoWidth: autoWidth,
+     bordered: bordered,
+@@ -2556,7 +2557,7 @@ var DataTableTable = function DataTableTable(props) {
+     responsiveXl: responsiveXl,
+     small: small,
+     striped: striped,
+-    className: "dataTable"
++    className: "table-striped j-datatable table-history dataTable no-footer"
+   }, attributes), React.createElement(DataTableHead, {
+     color: theadColor,
+     textWhite: theadTextWhite,
+@@ -2771,13 +2772,15 @@ var DataTableSelect = function DataTableSelect(_ref) {
+   };
+ 
+   return React.createElement("div", {
+-    className: "dataTables_length bs-select"
++    className: "dataTables_length"
+   }, React.createElement("label", null, label, React.createElement("select", {
+     value: value,
+     onChange: getValue,
+-    className: "custom-select custom-select-sm form-control form-control-sm",
++    className: "select-wrapper md-form mdb-select",
+     style: {
+-      marginLeft: ".5rem"
++      marginLeft: ".5rem",
++      border: "0.5px solid grey",
++      borderRadius:"5px"
+     }
+   }, entries.map(function (entry) {
+     return React.createElement("option", {
+@@ -2803,7 +2806,7 @@ var DataTableEntries = function DataTableEntries(props) {
+       label = props.label,
+       barReverse = props.barReverse;
+   return React.createElement("div", {
+-    className: "col-sm-12 col-md-6"
++    className: "col-sm-6"
+   }, paging && displayEntries && React.createElement(DataTableSelect, {
+     value: entries,
+     onChange: handleEntriesChange,
+@@ -2828,7 +2831,7 @@ var DataTableInput = function DataTableInput(_ref) {
+       onChange = _ref.onChange,
+       label = _ref.label;
+   return React.createElement("div", {
+-    className: "dataTables_filter"
++    className: "dataTables_length"
+   }, React.createElement("label", null, label || "Search", React.createElement("input", {
+     value: value,
+     onChange: onChange,
+@@ -2851,7 +2854,7 @@ var DataTableSearch = function DataTableSearch(props) {
+       label = props.label,
+       barReverse = props.barReverse;
+   return React.createElement("div", {
+-    className: "col-sm-12 col-md-6"
++    className: "col-sm-6"
+   }, searching && React.createElement(DataTableInput, {
+     value: search,
+     onChange: handleSearchChange,
+@@ -2876,7 +2879,7 @@ var DataTableInfo = function DataTableInfo(props) {
+       pages = props.pages,
+       label = props.label;
+   return React.createElement("div", {
+-    className: "col-sm-12 col-md-5"
++    className: "col-md-5"
+   }, info && React.createElement("div", {
+     className: "dataTables_info",
+     role: "status",
+@@ -2893,7 +2896,7 @@ DataTableInfo.propTypes = {
+   label: propTypes.arrayOf(propTypes.string)
+ };
+ DataTableInfo.defaultProps = {
+-  label: ["Showing", "to", "of", "entries"]
++  label: ["Making", "to", "of", "entries"]
+ };
+ 
+ var Pagination = function Pagination(props) {
+@@ -3059,9 +3062,9 @@ function (_Component) {
+           pages = _this$props.pages,
+           label = _this$props.label;
+       return React.createElement("div", {
+-        className: "col-sm-12 col-md-7"
++        className: "col-md-7"
+       }, React.createElement("div", {
+-        className: "dataTables_paginate"
++        className: "dataTables_paginate paging_simple_numbers"
+       }, React.createElement(Pagination, null, React.createElement(PageItem, {
+         disabled: activePage <= 0
+       }, React.createElement(PageLink, {
+@@ -3401,11 +3404,11 @@ function (_Component) {
+           activePage = _this$state.activePage,
+           search = _this$state.search,
+           translateScrollHead = _this$state.translateScrollHead;
+-      var tableClasses = classNames(className && "".concat(className), "dataTables_wrapper dt-bootstrap4");
++      var tableClasses = classNames(className && "".concat(className), "");
+       return React.createElement("div", {
+         className: tableClasses
+       }, React.createElement("div", {
+-        className: "row".concat(barReverse ? ' flex-row-reverse' : '')
++        className: "row".concat(barReverse ? ' flex-row-reverse' : ' be-datatable-header')
+       }, React.createElement(DataTableEntries, {
+         paging: paging,
+         displayEntries: displayEntries,
+@@ -3421,7 +3424,7 @@ function (_Component) {
+         label: searchLabel,
+         barReverse: barReverse
+       })), !scrollY && !scrollX && React.createElement("div", {
+-        className: "row"
++        className: "row be-datatable-body "
+       }, React.createElement(DataTableTable, _extends({
+         autoWidth: autoWidth,
+         bordered: bordered,
+@@ -3478,7 +3481,7 @@ function (_Component) {
+         rows: pages[activePage],
+         translateScrollHead: translateScrollHead
+       }, attributes))), paging && React.createElement("div", {
+-        className: "row"
++        className: "row be-datatable-footer"
+       }, React.createElement(DataTableInfo, {
+         activePage: activePage,
+         entries: entries,
+@@ -3551,24 +3554,24 @@ DataTable.defaultProps = {
+   data: {},
+   displayEntries: true,
+   entries: 10,
+-  entriesLabel: "Show entries",
++  entriesLabel: "Afficher éléments par",
+   entriesOptions: [10, 20, 50, 100],
+   exportToCSV: false,
+   fixed: false,
+   hover: false,
+   info: true,
+-  infoLabel: ["Showing", "to", "of", "entries"],
++  infoLabel: ["Affichage de l'élément", " à", "sur", " éléments"],
+   order: [],
+   pagesAmount: 8,
+   paging: true,
+-  paginationLabel: ["Previous", "Next"],
++  paginationLabel: ["Précédent", "Suivant"],
+   responsive: false,
+   responsiveSm: false,
+   responsiveMd: false,
+   responsiveLg: false,
+   responsiveXl: false,
+   searching: true,
+-  searchLabel: "Search",
++  searchLabel: "Rechercher",
+   scrollX: false,
+   scrollY: false,
+   sortable: true,
