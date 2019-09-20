@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5ca4d62e75740f82851af5b462725c15",
+    "revision": "9089892a964a934dd44d2fb0ad771f87",
     "url": "/EBANKING/index.html"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/EBANKING/static/js/9.800bca91.chunk.js"
   },
   {
-    "revision": "485b49bfee25242eb608",
-    "url": "/EBANKING/static/js/main.97397c31.chunk.js"
+    "revision": "7a1d8245d7ab42d7cc64",
+    "url": "/EBANKING/static/js/main.3f9f1938.chunk.js"
   },
   {
     "revision": "2cc9c8698fc4dace472f",
