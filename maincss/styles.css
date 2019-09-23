@@ -10666,14 +10666,14 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 @font-face {
   font-family: 'Roboto';
   src: url("/assets/media/fonts/Roboto/Roboto-Light.eot");
-  src: local("Roboto Light"), local("Roboto-Light"), url("/assets/media/fonts/Roboto/Roboto-Light.eot?#iefix") format("embedded-open$type"), url("/assets/media/fonts/Roboto/Roboto-Light.woff2") format("woff2"), url("/assets/media/fonts/Roboto/Roboto-Light.woff") format("woff"), url("/assets/media/fonts/Roboto/Roboto-Light.ttf") format("true$type"), url("/assets/media/fonts/Roboto/Roboto-Light.svg#Roboto") format("svg");
+  src: local("Roboto Light"), local("Roboto-Light"), url("/assets/media/fonts/Roboto/Roboto-Light.eot?#iefix") format("embedded-open$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Light.woff2") format("woff2"), url("/assets/media/fonts/Roboto/Roboto-Light.woff") format("woff"), url("/assets/media/fonts/Roboto/Roboto-Light.ttf") format("true$type"), url("/assets/media/fonts/Roboto/Roboto-Light.svg#Roboto") format("svg");
   font-weight: 300;
   font-style: normal; }
 
 @font-face {
   font-family: "Roboto-Light";
   src: url("/assets/media/fonts/Roboto/Roboto-Light.eot");
-  src: local("Roboto Light"), local("Roboto-Light"), url("/assets/media/fonts/Roboto/Roboto-Light.eot?#iefix") format("embedded-open$type"), url("/assets/media/fonts/Roboto/Roboto-Light.woff2") format("woff2"), url("/assets/media/fonts/Roboto/Roboto-Light.woff") format("woff"), url("/assets/media/fonts/Roboto/Roboto-Light.ttf") format("true$type"), url("/assets/media/fonts/Roboto/Roboto-Light.svg#Roboto") format("svg"); }
+  src: local("Roboto Light"), local("Roboto-Light"), url("/assets/media/fonts/Roboto/Roboto-Light.eot?#iefix") format("embedded-open$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Light.woff2") format("woff2"), url("/assets/media/fonts/Roboto/Roboto-Light.woff") format("woff"), url("/assets/media/fonts/Roboto/Roboto-Light.ttf") format("true$type"), url("/assets/media/fonts/Roboto/Roboto-Light.svg#Roboto") format("svg"); }
 
 @font-face {
   font-family: 'Roboto';
