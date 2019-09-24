@@ -10789,7 +10789,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
  */
 @font-face {
   font-family: "Material Icons";
-  src: url("/EBANKING/assets/media/fonts/material-design-iconic-font/Material-Design-Iconic-Font.woff2?v=2.2.0") format("woff2"), url("/EBANKING/assets/media/fonts/material-design-iconic-font/Material-Design-Iconic-Font.woff?v=2.2.0") format("woff"), url("/EBANKING/assets/media/fonts/material-design-iconic-font/Material-Design-Iconic-Font.ttf?v=2.2.0") format("truetype");
+  src: url("/EBANKING/assets/media/fonts/Material-Design-Iconic-Font/Material-Design-Iconic-Font.woff2?v=2.2.0") format("woff2"), url("/EBANKING/assets/media/fonts/material-design-iconic-font/Material-Design-Iconic-Font.woff?v=2.2.0") format("woff"), url("/EBANKING/assets/media/fonts/material-design-iconic-font/Material-Design-Iconic-Font.ttf?v=2.2.0") format("truetype");
   font-weight: normal;
   font-style: normal; }
 
