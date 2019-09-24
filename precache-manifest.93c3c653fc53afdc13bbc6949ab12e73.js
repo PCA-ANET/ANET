@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8154fe15ec789c975b0bd06b949e66d4",
+    "revision": "d0afd4ad1d59ea68bd23403489b3302c",
     "url": "/EBANKING/index.html"
   },
   {
-    "revision": "20e751d639b58d719aba",
+    "revision": "d893a08af15db0a8a725",
     "url": "/EBANKING/static/css/6.4d178bd5.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/EBANKING/static/js/5.02b974bf.chunk.js"
   },
   {
-    "revision": "20e751d639b58d719aba",
-    "url": "/EBANKING/static/js/6.1363e907.chunk.js"
+    "revision": "d893a08af15db0a8a725",
+    "url": "/EBANKING/static/js/6.123f847e.chunk.js"
   },
   {
     "revision": "604ec96607182f772d1b",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/EBANKING/static/js/main.d63017a0.chunk.js"
   },
   {
-    "revision": "2cc9c8698fc4dace472f",
-    "url": "/EBANKING/static/js/runtime~main.20bec7a4.js"
+    "revision": "5845757b631f0a6f25f3",
+    "url": "/EBANKING/static/js/runtime~main.16a3fe58.js"
   },
   {
     "revision": "08567b4497e9182d1c9051150233f886",
