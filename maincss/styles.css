@@ -10800,12 +10800,12 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   src: local("Roboto BlackItalic"), local("Roboto-BlackItalic"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-BlackItalic.eot?#iefix") format("embedded-open$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-BlackItalic.woff2") format("woff2"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-BlackItalic.woff") format("woff"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-BlackItalic.ttf") format("true$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-BlackItalic.svg#Roboto") format("svg"); }
 
 /*!
- *  Material Design Iconic Font by Sergey Kupletsky ($zavoloklom) - http://zavoloklom.github.io/material-design-iconic-font/
- *  License - http://zavoloklom.github.io/material-design-iconic-font/license (Font: SIL OFL 1.1, CSS: MIT License)
+ *  Material Design Iconic Font by Sergey Kupletsky ($zavoloklom) - http://zavoloklom.github.io/Material-Design-Iconic-Font/
+ *  License - http://zavoloklom.github.io/Material-Design-Iconic-Font/license (Font: SIL OFL 1.1, CSS: MIT License)
  */
 @font-face {
   font-family: "Material Icons";
-  src: url("/EBANKING/assets/media/fonts/material-design-iconic-font/Material-Design-Iconic-Font.woff2?v=2.2.0") format("woff2"), url("/EBANKING/assets/media/fonts/material-design-iconic-font/Material-Design-Iconic-Font.woff?v=2.2.0") format("woff"), url("/EBANKING/assets/media/fonts/material-design-iconic-font/Material-Design-Iconic-Font.ttf?v=2.2.0") format("truetype");
+  src: url("/EBANKING/assets/media/fonts/Material-Design-Iconic-Font/Material-Design-Iconic-Font.woff2?v=2.2.0") format("woff2"), url("/EBANKING/assets/media/fonts/Material-Design-Iconic-Font/Material-Design-Iconic-Font.woff?v=2.2.0") format("woff"), url("/EBANKING/assets/media/fonts/Material-Design-Iconic-Font/Material-Design-Iconic-Font.ttf?v=2.2.0") format("truetype");
   font-weight: normal;
   font-style: normal; }
 
