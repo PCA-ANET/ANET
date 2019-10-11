@@ -1,1 +1,0 @@
-{"version":3,"sources":["BackDrop.module.css"],"names":[],"mappings":"AAAA,0BACI,UAAW,CACX,WAAY,CACZ,cAAe,CACf,YAAa,CACb,MAAO,CACP,KAAM,CACN,+BACJ","file":"main.324f8709.chunk.css","sourcesContent":[".BackDrop {\r\n    width: 100%;\r\n    height: 100%;\r\n    position: fixed;\r\n    z-index: 1040;\r\n    left: 0;\r\n    top: 0;\r\n    background-color: rgba(0, 0, 0, 0.5);\r\n}"]}
