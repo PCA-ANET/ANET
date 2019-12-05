@@ -1,2 +1,0 @@
-(this["webpackJsonpdev-front-ebanking"]=this["webpackJsonpdev-front-ebanking"]||[]).push([[12],{930:function(n,e,t){"use strict";t.r(e);var a=t(0),r=t.n(a);e.default=function(){return r.a.createElement("div",null,"Dashboard")}}}]);
-//# sourceMappingURL=12.5ef8ab7f.chunk.js.map
