@@ -10658,147 +10658,147 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 */
 @font-face {
   font-family: 'Roboto';
-  src: url("/assets/media/fonts/Roboto/Roboto-Thin.eot");
-  src: local("Roboto Thin"), local("Roboto-Thin"), url("/assets/media/fonts/Roboto/Roboto-Thin.eot?#iefix") format("embedded-open$type"), url("/assets/media/fonts/Roboto/Roboto-Thin.woff2") format("woff2"), url("/assets/media/fonts/Roboto/Roboto-Thin.woff") format("woff"), url("/assets/media/fonts/Roboto/Roboto-Thin.ttf") format("true$type"), url("/assets/media/fonts/Roboto/Roboto-Thin.svg#Roboto") format("svg");
+  src: url("/EBANKING/EBANKING/assets/media/fonts/Roboto/Roboto-Thin.eot");
+  src: local("Roboto Thin"), local("Roboto-Thin"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Thin.eot?#iefix") format("embedded-open$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Thin.woff2") format("woff2"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Thin.woff") format("woff"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Thin.ttf") format("true$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Thin.svg#Roboto") format("svg");
   font-weight: 100;
   font-style: normal; }
 
 @font-face {
   font-family: "Roboto-Thin";
-  src: url("/assets/media/fonts/Roboto/Roboto-Thin.eot");
-  src: local("Roboto Thin"), local("Roboto-Thin"), url("/assets/media/fonts/Roboto/Roboto-Thin.eot?#iefix") format("embedded-open$type"), url("/assets/media/fonts/Roboto/Roboto-Thin.woff2") format("woff2"), url("/assets/media/fonts/Roboto/Roboto-Thin.woff") format("woff"), url("/assets/media/fonts/Roboto/Roboto-Thin.ttf") format("true$type"), url("/assets/media/fonts/Roboto/Roboto-Thin.svg#Roboto") format("svg"); }
+  src: url("/EBANKING/assets/media/fonts/Roboto/Roboto-Thin.eot");
+  src: local("Roboto Thin"), local("Roboto-Thin"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Thin.eot?#iefix") format("embedded-open$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Thin.woff2") format("woff2"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Thin.woff") format("woff"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Thin.ttf") format("true$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Thin.svg#Roboto") format("svg"); }
 
 @font-face {
   font-family: 'Roboto';
-  src: url("/assets/media/fonts/Roboto/Roboto-ThinItalic.eot");
-  src: local("Roboto ThinItalic"), local("Roboto-ThinItalic"), url("/assets/media/fonts/Roboto/Roboto-ThinItalic.eot?#iefix") format("embedded-open$type"), url("/assets/media/fonts/Roboto/Roboto-ThinItalic.woff2") format("woff2"), url("/assets/media/fonts/Roboto/Roboto-ThinItalic.woff") format("woff"), url("/assets/media/fonts/Roboto/Roboto-ThinItalic.ttf") format("true$type"), url("/assets/media/fonts/Roboto/Roboto-ThinItalic.svg#Roboto") format("svg");
+  src: url("/EBANKING/assets/media/fonts/Roboto/Roboto-ThinItalic.eot");
+  src: local("Roboto ThinItalic"), local("Roboto-ThinItalic"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-ThinItalic.eot?#iefix") format("embedded-open$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-ThinItalic.woff2") format("woff2"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-ThinItalic.woff") format("woff"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-ThinItalic.ttf") format("true$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-ThinItalic.svg#Roboto") format("svg");
   font-weight: 100;
   font-style: italic; }
 
 @font-face {
   font-family: "Roboto-ThinItalic";
-  src: url("/assets/media/fonts/Roboto/Roboto-ThinItalic.eot");
-  src: local("Roboto ThinItalic"), local("Roboto-ThinItalic"), url("/assets/media/fonts/Roboto/Roboto-ThinItalic.eot?#iefix") format("embedded-open$type"), url("/assets/media/fonts/Roboto/Roboto-ThinItalic.woff2") format("woff2"), url("/assets/media/fonts/Roboto/Roboto-ThinItalic.woff") format("woff"), url("/assets/media/fonts/Roboto/Roboto-ThinItalic.ttf") format("true$type"), url("/assets/media/fonts/Roboto/Roboto-ThinItalic.svg#Roboto") format("svg"); }
+  src: url("/EBANKING/assets/media/fonts/Roboto/Roboto-ThinItalic.eot");
+  src: local("Roboto ThinItalic"), local("Roboto-ThinItalic"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-ThinItalic.eot?#iefix") format("embedded-open$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-ThinItalic.woff2") format("woff2"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-ThinItalic.woff") format("woff"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-ThinItalic.ttf") format("true$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-ThinItalic.svg#Roboto") format("svg"); }
 
 @font-face {
   font-family: 'Roboto';
-  src: url("/assets/media/fonts/Roboto/Roboto-Light.eot");
-  src: local("Roboto Light"), local("Roboto-Light"), url("/assets/media/fonts/Roboto/Roboto-Light.eot?#iefix") format("embedded-open$type"), url("/assets/media/fonts/Roboto/Roboto-Light.woff2") format("woff2"), url("/assets/media/fonts/Roboto/Roboto-Light.woff") format("woff"), url("/assets/media/fonts/Roboto/Roboto-Light.ttf") format("true$type"), url("/assets/media/fonts/Roboto/Roboto-Light.svg#Roboto") format("svg");
+  src: url("/EBANKING/assets/media/fonts/Roboto/Roboto-Light.eot");
+  src: local("Roboto Light"), local("Roboto-Light"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Light.eot?#iefix") format("embedded-open$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Light.woff2") format("woff2"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Light.woff") format("woff"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Light.ttf") format("true$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Light.svg#Roboto") format("svg");
   font-weight: 300;
   font-style: normal; }
 
 @font-face {
   font-family: "Roboto-Light";
-  src: url("/assets/media/fonts/Roboto/Roboto-Light.eot");
-  src: local("Roboto Light"), local("Roboto-Light"), url("/assets/media/fonts/Roboto/Roboto-Light.eot?#iefix") format("embedded-open$type"), url("/assets/media/fonts/Roboto/Roboto-Light.woff2") format("woff2"), url("/assets/media/fonts/Roboto/Roboto-Light.woff") format("woff"), url("/assets/media/fonts/Roboto/Roboto-Light.ttf") format("true$type"), url("/assets/media/fonts/Roboto/Roboto-Light.svg#Roboto") format("svg"); }
+  src: url("/EBANKING/assets/media/fonts/Roboto/Roboto-Light.eot");
+  src: local("Roboto Light"), local("Roboto-Light"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Light.eot?#iefix") format("embedded-open$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Light.woff2") format("woff2"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Light.woff") format("woff"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Light.ttf") format("true$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Light.svg#Roboto") format("svg"); }
 
 @font-face {
   font-family: 'Roboto';
-  src: url("/assets/media/fonts/Roboto/Roboto-LightItalic.eot");
-  src: local("Roboto LightItalic"), local("Roboto-LightItalic"), url("/assets/media/fonts/Roboto/Roboto-LightItalic.eot?#iefix") format("embedded-open$type"), url("/assets/media/fonts/Roboto/Roboto-LightItalic.woff2") format("woff2"), url("/assets/media/fonts/Roboto/Roboto-LightItalic.woff") format("woff"), url("/assets/media/fonts/Roboto/Roboto-LightItalic.ttf") format("true$type"), url("/assets/media/fonts/Roboto/Roboto-LightItalic.svg#Roboto") format("svg");
+  src: url("/EBANKING/assets/media/fonts/Roboto/Roboto-LightItalic.eot");
+  src: local("Roboto LightItalic"), local("Roboto-LightItalic"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-LightItalic.eot?#iefix") format("embedded-open$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-LightItalic.woff2") format("woff2"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-LightItalic.woff") format("woff"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-LightItalic.ttf") format("true$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-LightItalic.svg#Roboto") format("svg");
   font-weight: 300;
   font-style: italic; }
 
 @font-face {
   font-family: "Roboto-LightItalic";
-  src: url("/assets/media/fonts/Roboto/Roboto-LightItalic.eot");
-  src: local("Roboto LightItalic"), local("Roboto-LightItalic"), url("/assets/media/fonts/Roboto/Roboto-LightItalic.eot?#iefix") format("embedded-open$type"), url("/assets/media/fonts/Roboto/Roboto-LightItalic.woff2") format("woff2"), url("/assets/media/fonts/Roboto/Roboto-LightItalic.woff") format("woff"), url("/assets/media/fonts/Roboto/Roboto-LightItalic.ttf") format("true$type"), url("/assets/media/fonts/Roboto/Roboto-LightItalic.svg#Roboto") format("svg"); }
+  src: url("/EBANKING/assets/media/fonts/Roboto/Roboto-LightItalic.eot");
+  src: local("Roboto LightItalic"), local("Roboto-LightItalic"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-LightItalic.eot?#iefix") format("embedded-open$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-LightItalic.woff2") format("woff2"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-LightItalic.woff") format("woff"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-LightItalic.ttf") format("true$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-LightItalic.svg#Roboto") format("svg"); }
 
 @font-face {
   font-family: 'Roboto';
-  src: url("/assets/media/fonts/Roboto/Roboto-Regular.eot");
-  src: local("Roboto Regular"), local("Roboto-Regular"), url("/assets/media/fonts/Roboto/Roboto-Regular.eot?#iefix") format("embedded-open$type"), url("/assets/media/fonts/Roboto/Roboto-Regular.woff2") format("woff2"), url("/assets/media/fonts/Roboto/Roboto-Regular.woff") format("woff"), url("/assets/media/fonts/Roboto/Roboto-Regular.ttf") format("true$type"), url("/assets/media/fonts/Roboto/Roboto-Regular.svg#Roboto") format("svg");
+  src: url("/EBANKING/assets/media/fonts/Roboto/Roboto-Regular.eot");
+  src: local("Roboto Regular"), local("Roboto-Regular"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Regular.eot?#iefix") format("embedded-open$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Regular.woff2") format("woff2"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Regular.woff") format("woff"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Regular.ttf") format("true$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Regular.svg#Roboto") format("svg");
   font-weight: 400;
   font-style: normal; }
 
 @font-face {
   font-family: "Roboto-Regular";
-  src: url("/assets/media/fonts/Roboto/Roboto-Regular.eot");
-  src: local("Roboto Regular"), local("Roboto-Regular"), url("/assets/media/fonts/Roboto/Roboto-Regular.eot?#iefix") format("embedded-open$type"), url("/assets/media/fonts/Roboto/Roboto-Regular.woff2") format("woff2"), url("/assets/media/fonts/Roboto/Roboto-Regular.woff") format("woff"), url("/assets/media/fonts/Roboto/Roboto-Regular.ttf") format("true$type"), url("/assets/media/fonts/Roboto/Roboto-Regular.svg#Roboto") format("svg"); }
+  src: url("/EBANKING/assets/media/fonts/Roboto/Roboto-Regular.eot");
+  src: local("Roboto Regular"), local("Roboto-Regular"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Regular.eot?#iefix") format("embedded-open$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Regular.woff2") format("woff2"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Regular.woff") format("woff"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Regular.ttf") format("true$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Regular.svg#Roboto") format("svg"); }
 
 @font-face {
   font-family: 'Roboto';
-  src: url("/assets/media/fonts/Roboto/Roboto-RegularItalic.eot");
-  src: local("Roboto RegularItalic"), local("Roboto-RegularItalic"), url("/assets/media/fonts/Roboto/Roboto-RegularItalic.eot?#iefix") format("embedded-open$type"), url("/assets/media/fonts/Roboto/Roboto-RegularItalic.woff2") format("woff2"), url("/assets/media/fonts/Roboto/Roboto-RegularItalic.woff") format("woff"), url("/assets/media/fonts/Roboto/Roboto-RegularItalic.ttf") format("true$type"), url("/assets/media/fonts/Roboto/Roboto-RegularItalic.svg#Roboto") format("svg");
+  src: url("/EBANKING/assets/media/fonts/Roboto/Roboto-RegularItalic.eot");
+  src: local("Roboto RegularItalic"), local("Roboto-RegularItalic"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-RegularItalic.eot?#iefix") format("embedded-open$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-RegularItalic.woff2") format("woff2"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-RegularItalic.woff") format("woff"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-RegularItalic.ttf") format("true$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-RegularItalic.svg#Roboto") format("svg");
   font-weight: 400;
   font-style: italic; }
 
 @font-face {
   font-family: "Roboto-RegularItalic";
-  src: url("/assets/media/fonts/Roboto/Roboto-RegularItalic.eot");
-  src: local("Roboto RegularItalic"), local("Roboto-RegularItalic"), url("/assets/media/fonts/Roboto/Roboto-RegularItalic.eot?#iefix") format("embedded-open$type"), url("/assets/media/fonts/Roboto/Roboto-RegularItalic.woff2") format("woff2"), url("/assets/media/fonts/Roboto/Roboto-RegularItalic.woff") format("woff"), url("/assets/media/fonts/Roboto/Roboto-RegularItalic.ttf") format("true$type"), url("/assets/media/fonts/Roboto/Roboto-RegularItalic.svg#Roboto") format("svg"); }
+  src: url("/EBANKING/assets/media/fonts/Roboto/Roboto-RegularItalic.eot");
+  src: local("Roboto RegularItalic"), local("Roboto-RegularItalic"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-RegularItalic.eot?#iefix") format("embedded-open$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-RegularItalic.woff2") format("woff2"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-RegularItalic.woff") format("woff"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-RegularItalic.ttf") format("true$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-RegularItalic.svg#Roboto") format("svg"); }
 
 @font-face {
   font-family: 'Roboto';
-  src: url("/assets/media/fonts/Roboto/Roboto-Medium.eot");
-  src: local("Roboto Medium"), local("Roboto-Medium"), url("/assets/media/fonts/Roboto/Roboto-Medium.eot?#iefix") format("embedded-open$type"), url("/assets/media/fonts/Roboto/Roboto-Medium.woff2") format("woff2"), url("/assets/media/fonts/Roboto/Roboto-Medium.woff") format("woff"), url("/assets/media/fonts/Roboto/Roboto-Medium.ttf") format("true$type"), url("/assets/media/fonts/Roboto/Roboto-Medium.svg#Roboto") format("svg");
+  src: url("/EBANKING/assets/media/fonts/Roboto/Roboto-Medium.eot");
+  src: local("Roboto Medium"), local("Roboto-Medium"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Medium.eot?#iefix") format("embedded-open$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Medium.woff2") format("woff2"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Medium.woff") format("woff"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Medium.ttf") format("true$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Medium.svg#Roboto") format("svg");
   font-weight: 500;
   font-style: normal; }
 
 @font-face {
   font-family: "Roboto-Medium";
-  src: url("/assets/media/fonts/Roboto/Roboto-Medium.eot");
-  src: local("Roboto Medium"), local("Roboto-Medium"), url("/assets/media/fonts/Roboto/Roboto-Medium.eot?#iefix") format("embedded-open$type"), url("/assets/media/fonts/Roboto/Roboto-Medium.woff2") format("woff2"), url("/assets/media/fonts/Roboto/Roboto-Medium.woff") format("woff"), url("/assets/media/fonts/Roboto/Roboto-Medium.ttf") format("true$type"), url("/assets/media/fonts/Roboto/Roboto-Medium.svg#Roboto") format("svg"); }
+  src: url("/EBANKING/assets/media/fonts/Roboto/Roboto-Medium.eot");
+  src: local("Roboto Medium"), local("Roboto-Medium"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Medium.eot?#iefix") format("embedded-open$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Medium.woff2") format("woff2"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Medium.woff") format("woff"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Medium.ttf") format("true$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Medium.svg#Roboto") format("svg"); }
 
 @font-face {
   font-family: 'Roboto';
-  src: url("/assets/media/fonts/Roboto/Roboto-MediumItalic.eot");
-  src: local("Roboto MediumItalic"), local("Roboto-MediumItalic"), url("/assets/media/fonts/Roboto/Roboto-MediumItalic.eot?#iefix") format("embedded-open$type"), url("/assets/media/fonts/Roboto/Roboto-MediumItalic.woff2") format("woff2"), url("/assets/media/fonts/Roboto/Roboto-MediumItalic.woff") format("woff"), url("/assets/media/fonts/Roboto/Roboto-MediumItalic.ttf") format("true$type"), url("/assets/media/fonts/Roboto/Roboto-MediumItalic.svg#Roboto") format("svg");
+  src: url("/EBANKING/assets/media/fonts/Roboto/Roboto-MediumItalic.eot");
+  src: local("Roboto MediumItalic"), local("Roboto-MediumItalic"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-MediumItalic.eot?#iefix") format("embedded-open$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-MediumItalic.woff2") format("woff2"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-MediumItalic.woff") format("woff"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-MediumItalic.ttf") format("true$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-MediumItalic.svg#Roboto") format("svg");
   font-weight: 500;
   font-style: italic; }
 
 @font-face {
   font-family: "Roboto-MediumItalic";
-  src: url("/assets/media/fonts/Roboto/Roboto-MediumItalic.eot");
-  src: local("Roboto MediumItalic"), local("Roboto-MediumItalic"), url("/assets/media/fonts/Roboto/Roboto-MediumItalic.eot?#iefix") format("embedded-open$type"), url("/assets/media/fonts/Roboto/Roboto-MediumItalic.woff2") format("woff2"), url("/assets/media/fonts/Roboto/Roboto-MediumItalic.woff") format("woff"), url("/assets/media/fonts/Roboto/Roboto-MediumItalic.ttf") format("true$type"), url("/assets/media/fonts/Roboto/Roboto-MediumItalic.svg#Roboto") format("svg"); }
+  src: url("/EBANKING/assets/media/fonts/Roboto/Roboto-MediumItalic.eot");
+  src: local("Roboto MediumItalic"), local("Roboto-MediumItalic"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-MediumItalic.eot?#iefix") format("embedded-open$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-MediumItalic.woff2") format("woff2"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-MediumItalic.woff") format("woff"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-MediumItalic.ttf") format("true$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-MediumItalic.svg#Roboto") format("svg"); }
 
 @font-face {
   font-family: 'Roboto';
-  src: url("/assets/media/fonts/Roboto/Roboto-Bold.eot");
-  src: local("Roboto Bold"), local("Roboto-Bold"), url("/assets/media/fonts/Roboto/Roboto-Bold.eot?#iefix") format("embedded-open$type"), url("/assets/media/fonts/Roboto/Roboto-Bold.woff2") format("woff2"), url("/assets/media/fonts/Roboto/Roboto-Bold.woff") format("woff"), url("/assets/media/fonts/Roboto/Roboto-Bold.ttf") format("true$type"), url("/assets/media/fonts/Roboto/Roboto-Bold.svg#Roboto") format("svg");
+  src: url("/EBANKING/assets/media/fonts/Roboto/Roboto-Bold.eot");
+  src: local("Roboto Bold"), local("Roboto-Bold"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Bold.eot?#iefix") format("embedded-open$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Bold.woff2") format("woff2"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Bold.woff") format("woff"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Bold.ttf") format("true$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Bold.svg#Roboto") format("svg");
   font-weight: 700;
   font-style: normal; }
 
 @font-face {
   font-family: "Roboto-Bold";
-  src: url("/assets/media/fonts/Roboto/Roboto-Bold.eot");
-  src: local("Roboto Bold"), local("Roboto-Bold"), url("/assets/media/fonts/Roboto/Roboto-Bold.eot?#iefix") format("embedded-open$type"), url("/assets/media/fonts/Roboto/Roboto-Bold.woff2") format("woff2"), url("/assets/media/fonts/Roboto/Roboto-Bold.woff") format("woff"), url("/assets/media/fonts/Roboto/Roboto-Bold.ttf") format("true$type"), url("/assets/media/fonts/Roboto/Roboto-Bold.svg#Roboto") format("svg"); }
+  src: url("/EBANKING/assets/media/fonts/Roboto/Roboto-Bold.eot");
+  src: local("Roboto Bold"), local("Roboto-Bold"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Bold.eot?#iefix") format("embedded-open$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Bold.woff2") format("woff2"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Bold.woff") format("woff"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Bold.ttf") format("true$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Bold.svg#Roboto") format("svg"); }
 
 @font-face {
   font-family: 'Roboto';
-  src: url("/assets/media/fonts/Roboto/Roboto-BoldItalic.eot");
-  src: local("Roboto BoldItalic"), local("Roboto-BoldItalic"), url("/assets/media/fonts/Roboto/Roboto-BoldItalic.eot?#iefix") format("embedded-open$type"), url("/assets/media/fonts/Roboto/Roboto-BoldItalic.woff2") format("woff2"), url("/assets/media/fonts/Roboto/Roboto-BoldItalic.woff") format("woff"), url("/assets/media/fonts/Roboto/Roboto-BoldItalic.ttf") format("true$type"), url("/assets/media/fonts/Roboto/Roboto-BoldItalic.svg#Roboto") format("svg");
+  src: url("/EBANKING/assets/media/fonts/Roboto/Roboto-BoldItalic.eot");
+  src: local("Roboto BoldItalic"), local("Roboto-BoldItalic"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-BoldItalic.eot?#iefix") format("embedded-open$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-BoldItalic.woff2") format("woff2"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-BoldItalic.woff") format("woff"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-BoldItalic.ttf") format("true$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-BoldItalic.svg#Roboto") format("svg");
   font-weight: 700;
   font-style: italic; }
 
 @font-face {
   font-family: "Roboto-BoldItalic";
-  src: url("/assets/media/fonts/Roboto/Roboto-BoldItalic.eot");
-  src: local("Roboto BoldItalic"), local("Roboto-BoldItalic"), url("/assets/media/fonts/Roboto/Roboto-BoldItalic.eot?#iefix") format("embedded-open$type"), url("/assets/media/fonts/Roboto/Roboto-BoldItalic.woff2") format("woff2"), url("/assets/media/fonts/Roboto/Roboto-BoldItalic.woff") format("woff"), url("/assets/media/fonts/Roboto/Roboto-BoldItalic.ttf") format("true$type"), url("/assets/media/fonts/Roboto/Roboto-BoldItalic.svg#Roboto") format("svg"); }
+  src: url("/EBANKING/assets/media/fonts/Roboto/Roboto-BoldItalic.eot");
+  src: local("Roboto BoldItalic"), local("Roboto-BoldItalic"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-BoldItalic.eot?#iefix") format("embedded-open$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-BoldItalic.woff2") format("woff2"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-BoldItalic.woff") format("woff"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-BoldItalic.ttf") format("true$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-BoldItalic.svg#Roboto") format("svg"); }
 
 @font-face {
   font-family: 'Roboto';
-  src: url("/assets/media/fonts/Roboto/Roboto-Black.eot");
-  src: local("Roboto Black"), local("Roboto-Black"), url("/assets/media/fonts/Roboto/Roboto-Black.eot?#iefix") format("embedded-open$type"), url("/assets/media/fonts/Roboto/Roboto-Black.woff2") format("woff2"), url("/assets/media/fonts/Roboto/Roboto-Black.woff") format("woff"), url("/assets/media/fonts/Roboto/Roboto-Black.ttf") format("true$type"), url("/assets/media/fonts/Roboto/Roboto-Black.svg#Roboto") format("svg");
+  src: url("/EBANKING/assets/media/fonts/Roboto/Roboto-Black.eot");
+  src: local("Roboto Black"), local("Roboto-Black"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Black.eot?#iefix") format("embedded-open$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Black.woff2") format("woff2"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Black.woff") format("woff"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Black.ttf") format("true$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Black.svg#Roboto") format("svg");
   font-weight: 900;
   font-style: normal; }
 
 @font-face {
   font-family: "Roboto-Black";
-  src: url("/assets/media/fonts/Roboto/Roboto-Black.eot");
-  src: local("Roboto Black"), local("Roboto-Black"), url("/assets/media/fonts/Roboto/Roboto-Black.eot?#iefix") format("embedded-open$type"), url("/assets/media/fonts/Roboto/Roboto-Black.woff2") format("woff2"), url("/assets/media/fonts/Roboto/Roboto-Black.woff") format("woff"), url("/assets/media/fonts/Roboto/Roboto-Black.ttf") format("true$type"), url("/assets/media/fonts/Roboto/Roboto-Black.svg#Roboto") format("svg"); }
+  src: url("/EBANKING/assets/media/fonts/Roboto/Roboto-Black.eot");
+  src: local("Roboto Black"), local("Roboto-Black"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Black.eot?#iefix") format("embedded-open$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Black.woff2") format("woff2"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Black.woff") format("woff"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Black.ttf") format("true$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Black.svg#Roboto") format("svg"); }
 
 @font-face {
   font-family: 'Roboto';
-  src: url("/assets/media/fonts/Roboto/Roboto-BlackItalic.eot");
-  src: local("Roboto BlackItalic"), local("Roboto-BlackItalic"), url("/assets/media/fonts/Roboto/Roboto-BlackItalic.eot?#iefix") format("embedded-open$type"), url("/assets/media/fonts/Roboto/Roboto-BlackItalic.woff2") format("woff2"), url("/assets/media/fonts/Roboto/Roboto-BlackItalic.woff") format("woff"), url("/assets/media/fonts/Roboto/Roboto-BlackItalic.ttf") format("true$type"), url("/assets/media/fonts/Roboto/Roboto-BlackItalic.svg#Roboto") format("svg");
+  src: url("/EBANKING/assets/media/fonts/Roboto/Roboto-BlackItalic.eot");
+  src: local("Roboto BlackItalic"), local("Roboto-BlackItalic"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-BlackItalic.eot?#iefix") format("embedded-open$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-BlackItalic.woff2") format("woff2"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-BlackItalic.woff") format("woff"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-BlackItalic.ttf") format("true$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-BlackItalic.svg#Roboto") format("svg");
   font-weight: 900;
   font-style: italic; }
 
 @font-face {
   font-family: "Roboto-BlackItalic";
-  src: url("/assets/media/fonts/Roboto/Roboto-BlackItalic.eot");
-  src: local("Roboto BlackItalic"), local("Roboto-BlackItalic"), url("/assets/media/fonts/Roboto/Roboto-BlackItalic.eot?#iefix") format("embedded-open$type"), url("/assets/media/fonts/Roboto/Roboto-BlackItalic.woff2") format("woff2"), url("/assets/media/fonts/Roboto/Roboto-BlackItalic.woff") format("woff"), url("/assets/media/fonts/Roboto/Roboto-BlackItalic.ttf") format("true$type"), url("/assets/media/fonts/Roboto/Roboto-BlackItalic.svg#Roboto") format("svg"); }
+  src: url("/EBANKING/assets/media/fonts/Roboto/Roboto-BlackItalic.eot");
+  src: local("Roboto BlackItalic"), local("Roboto-BlackItalic"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-BlackItalic.eot?#iefix") format("embedded-open$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-BlackItalic.woff2") format("woff2"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-BlackItalic.woff") format("woff"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-BlackItalic.ttf") format("true$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-BlackItalic.svg#Roboto") format("svg"); }
 
 /*!
  *  Material Design Iconic Font by Sergey Kupletsky ($zavoloklom) - http://zavoloklom.github.io/material-design-iconic-font/
@@ -10806,7 +10806,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
  */
 @font-face {
   font-family: "Material Icons";
-  src: url("/assets/media/fonts/Material-Design-Iconic-Font/Material-Design-Iconic-Font.woff2?v=2.2.0") format("woff2"), url("/assets/media/fonts/Material-Design-Iconic-Font/Material-Design-Iconic-Font.woff?v=2.2.0") format("woff"), url("/assets/media/fonts/Material-Design-Iconic-Font/Material-Design-Iconic-Font.ttf?v=2.2.0") format("truetype");
+  src: url("/EBANKING/assets/media/fonts/Material-Design-Iconic-Font/Material-Design-Iconic-Font.woff2?v=2.2.0") format("woff2"), url("/EBANKING/assets/media/fonts/Material-Design-Iconic-Font/Material-Design-Iconic-Font.woff?v=2.2.0") format("woff"), url("/EBANKING/assets/media/fonts/Material-Design-Iconic-Font/Material-Design-Iconic-Font.ttf?v=2.2.0") format("truetype");
   font-weight: normal;
   font-style: normal; }
 
@@ -15986,7 +15986,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 */
 @font-face {
   font-family: 'ocra';
-  src: url("/assets/media/fonts/ocra/OcrA-Regular.eot"), url("/assets/media/fonts/ocra/OcrA-Regular.woff2") format("woff2"), url("/assets/media/fonts/ocra/OcrA-Regular.woff") format("woff"), url("/assets/media/fonts/ocra/OcrA-Regular.ttf") format("true"); }
+  src: url("/EBANKING/assets/media/fonts/ocra/OcrA-Regular.eot"), url("/EBANKING/assets/media/fonts/ocra/OcrA-Regular.woff2") format("woff2"), url("/EBANKING/assets/media/fonts/ocra/OcrA-Regular.woff") format("woff"), url("/EBANKING/assets/media/fonts/ocra/OcrA-Regular.ttf") format("true"); }
 
 html {
   height: 100%;
@@ -16005,7 +16005,8 @@ body {
   display: none; }
 
 #Excel > div, .excel-div > div {
-  margin: 0 !important; }
+  margin: 0 !important;
+  height: 0 !important; }
 
 .page-content_inner {
   min-height: 500px; }
@@ -16015,6 +16016,20 @@ main.app {
   @media only screen and (max-width: 2000px) {
     main.app {
       height: auto; } }
+
+@media only screen and (max-width: 1300px) {
+  .table-liste-operation, .recharts-legend-wrapper {
+    max-width: 100% !important;
+    width: 100% !important;
+    -webkit-box-flex: 0 !important;
+    -webkit-flex: 0 0 100% !important;
+    -moz-box-flex: 0 !important;
+    -ms-flex: 0 0 100% !important;
+    flex: 0 0 100% !important; } }
+
+@media only screen and (max-width: 767px) {
+  .recharts-responsive-container .recharts-wrapper svg {
+    width: 230%; } }
 
 .app .page {
   height: 100%;
@@ -16029,6 +16044,14 @@ main.app {
   margin-top: 40px;
   display: inline-block;
   width: 100%; }
+
+@media only screen and (min-width: 1300px) {
+  .page-login .page-content {
+    zoom: 0.94; } }
+
+@media only screen and (min-width: 1300px) {
+  .page-content {
+    zoom: 0.8; } }
 
 .footer-interne {
   background: rgba(141, 141, 141, 0.44);
@@ -16118,6 +16141,31 @@ p {
   .champs_obligatoires sup {
     margin-right: 5px; }
 
+.table-last-operation__dashboard table {
+  display: block;
+  overflow-y: scroll;
+  max-height: 280px; }
+
+.close-menu {
+  display: block;
+  width: 100%;
+  text-align: right;
+  padding-right: 9px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  color: white;
+  background: #4a4a4a;
+  display: none; }
+  @media (max-width: 767px) {
+    .close-menu {
+      display: block;
+      font-size: 0;
+      padding: 2px 15px 7px; }
+      .close-menu:before {
+        content: "\f301";
+        font-family: "Material Icons";
+        font-size: 20px; } }
+
 .card-oppos {
   position: absolute;
   width: 100%;
@@ -16158,6 +16206,11 @@ p {
   top: 26px;
   width: 21px;
   cursor: pointer; }
+  @media (max-width: 767px) {
+    .p-plain {
+      right: 0;
+      top: 73px;
+      width: 21px; } }
   .p-plain input {
     opacity: 0;
     width: 100%;
@@ -16304,7 +16357,17 @@ p {
     vertical-align: middle;
     font-size: 26px;
     color: white;
-    position: absolute; }
+    position: absolute;
+    left: 12px;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    transform: translateY(-50%); }
+
+@media (max-width: 767px) {
+  .modal.modal-show {
+    width: 320px;
+    padding: 0; } }
 
 .text-large {
   font-size: 18px;
@@ -16353,6 +16416,39 @@ canvas {
   -moz-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
   z-index: 9000 !important; }
+  .modal-container.modal-cgu {
+    max-width: 1030px;
+    min-width: auto;
+    width: 100%;
+    background: white; }
+    @media (min-width: 768px) and (max-width: 991px) {
+      .modal-container.modal-cgu {
+        width: 90%; } }
+    @media (max-width: 767px) {
+      .modal-container.modal-cgu {
+        width: 90%; } }
+    .modal-container.modal-cgu .list-content {
+      max-height: 600px;
+      overflow: visible;
+      background-color: white !important;
+      -webkit-box-shadow: none !important;
+      -moz-box-shadow: none !important;
+      box-shadow: none !important; }
+      @media (max-width: 767px) {
+        .modal-container.modal-cgu .list-content {
+          max-height: 400px; } }
+      .modal-container.modal-cgu .list-content .btn {
+        padding: 15px 50px;
+        text-transform: uppercase; }
+      .modal-container.modal-cgu .list-content .text-conditions {
+        margin-top: 11px;
+        padding: 35px; }
+        @media (max-width: 767px) {
+          .modal-container.modal-cgu .list-content .text-conditions {
+            padding: 20px; } }
+        @media (max-width: 767px) {
+          .modal-container.modal-cgu .list-content .text-conditions h2 {
+            font-size: 20px; } }
   .modal-container.modal-formulaire {
     max-width: 870px;
     width: 70%;
@@ -16633,11 +16729,11 @@ canvas {
   display: -moz-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-  -moz-box-pack: center;
-  -ms-flex-pack: center;
-  justify-content: center;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -moz-box-pack: start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
   -webkit-box-align: center;
   -webkit-align-items: center;
   -moz-box-align: center;
@@ -16713,11 +16809,12 @@ canvas {
   padding-right: 18px; }
   @media (max-width: 767px) {
     .language-bloc {
-      position: absolute;
+      position: relative;
       right: 0;
       top: 0;
-      padding-right: 40px !important;
-      border-right: 0; } }
+      padding-right: 0px !important;
+      border-right: 0;
+      padding-left: 0; } }
   .language-bloc:hover ul {
     display: block; }
     .language-bloc:hover ul li {
@@ -16728,13 +16825,31 @@ canvas {
   .language-bloc svg {
     position: absolute;
     left: 0;
-    fill: #878787; }
+    fill: #878787;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    transform: translateY(-50%); }
+    @media (max-width: 767px) {
+      .language-bloc svg {
+        position: relative;
+        top: 0;
+        -webkit-transform: none;
+        -moz-transform: none;
+        transform: none;
+        margin-right: 0;
+        width: 25px; } }
   .language-bloc label {
     text-transform: uppercase;
     font-weight: bold;
     font-size: 14px;
     margin: 0;
     cursor: pointer; }
+    @media (max-width: 767px) {
+      .language-bloc label {
+        font-size: 9px;
+        display: block;
+        margin-left: 2px; } }
   .language-bloc ul {
     padding-left: 0;
     margin-bottom: 0;
@@ -16745,6 +16860,9 @@ canvas {
     padding: 5px 0px;
     left: 28px;
     z-index: 9; }
+    @media (max-width: 767px) {
+      .language-bloc ul {
+        left: -13px; } }
     .language-bloc ul:before {
       content: "";
       position: absolute;
@@ -16785,6 +16903,26 @@ canvas {
 
 .block-map {
   position: relative; }
+  @media (max-width: 767px) {
+    .block-map {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -moz-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-flow: column;
+      -moz-box-orient: vertical;
+      -moz-box-direction: normal;
+      -ms-flex-flow: column;
+      flex-flow: column; }
+      .block-map > div {
+        -webkit-box-ordinal-group: 2;
+        -webkit-order: 1;
+        -moz-box-ordinal-group: 2;
+        -ms-flex-order: 1;
+        order: 1; } }
   .block-map .list-map {
     position: absolute;
     z-index: 1;
@@ -16792,6 +16930,20 @@ canvas {
     background: white;
     top: 7%;
     left: 100px; }
+    @media (max-width: 767px) {
+      .block-map .list-map {
+        top: 0;
+        left: 0;
+        -webkit-transform: none !important;
+        -moz-transform: none !important;
+        transform: none !important;
+        -webkit-box-ordinal-group: 1;
+        -webkit-order: 0;
+        -moz-box-ordinal-group: 1;
+        -ms-flex-order: 0;
+        order: 0;
+        width: 100%;
+        position: relative; } }
     .block-map .list-map .effacer-recherche {
       display: -webkit-box;
       display: -webkit-flex;
@@ -16997,6 +17149,20 @@ canvas {
       padding-left: 23px;
       margin-bottom: 0;
       cursor: all-scroll; }
+      .block-map .list-map .h2 span {
+        color: white;
+        opacity: 1;
+        font-weight: normal;
+        margin-right: 16px;
+        font-size: 29px;
+        cursor: pointer;
+        float: right; }
+        .block-map .list-map .h2 span:before {
+          content: "\f2fc";
+          font-family: "Material Icons"; }
+        .block-map .list-map .h2 span.open:before {
+          content: "\f2f9";
+          font-family: "Material Icons"; }
   .block-map .gm-style-iw-t {
     bottom: 65px !important; }
   .block-map .gm-style .gm-style-iw-c {
@@ -17353,6 +17519,10 @@ canvas {
     -moz-transform: rotate(405deg);
     transform: rotate(405deg); } }
 
+.button-cgu .btn {
+  padding: 13px 29px;
+  margin: 0 4px; }
+
 .text-conditions {
   background: white;
   padding: 50px 70px;
@@ -17378,6 +17548,67 @@ canvas {
   .text-conditions strong {
     font-family: 'roboto-medium';
     font-weight: normal; }
+
+.list-pay {
+  position: relative;
+  cursor: pointer; }
+  .list-pay span.value {
+    width: auto;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -moz-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -moz-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    border: 1px solid #d1d1d1;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    position: relative;
+    height: 30px;
+    padding: 0 23px 0 8px; }
+    .list-pay span.value:before {
+      content: "\f2f9";
+      font-family: "Material Icons";
+      left: auto;
+      font-size: 18px;
+      top: 1px;
+      color: black;
+      position: absolute;
+      right: 7px; }
+  .list-pay ul {
+    padding-left: 0;
+    position: absolute;
+    top: 30px;
+    background: #f4f4f4;
+    padding: 0 7px;
+    border: 1px solid #dbdbdb;
+    z-index: 1;
+    max-height: 140px;
+    overflow: auto; }
+    .list-pay ul li {
+      list-style: none;
+      margin-bottom: 6px;
+      margin-top: 2px;
+      cursor: pointer; }
+    .list-pay ul.hidden-list {
+      display: none; }
+
+@media only screen and (min-width: 1300px) {
+  .page-header-home, .bcp-content-home, .page-footer-home {
+    zoom: 0.9; }
+    @supports (-ms-ime-align: auto) {
+      .page-header-home, .bcp-content-home, .page-footer-home {
+        zoom: 1; } } }
 
 .fade {
   opacity: 0;
@@ -18732,6 +18963,17 @@ a.label:hover, a.label:focus {
     background-color: transparent;
     border: 0;
     padding: 0 30px; }
+    @media (min-width: 768px) and (max-width: 991px) {
+      .colored-header .modal-content .modal-body .div__abonemment .fuelux .wizard .steps {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-flex-flow: nowrap;
+        -ms-flex-flow: nowrap;
+        flex-flow: nowrap;
+        padding: 0 15px; } }
     @media (max-width: 767px) {
       .colored-header .modal-content .modal-body .div__abonemment .fuelux .wizard .steps {
         display: -webkit-box;
@@ -18745,7 +18987,12 @@ a.label:hover, a.label:focus {
         padding: 0 15px; } }
     .colored-header .modal-content .modal-body .div__abonemment .fuelux .wizard .steps li {
       background: transparent;
-      padding: 0; }
+      padding: 0;
+      -webkit-box-align: baseline;
+      -webkit-align-items: baseline;
+      -moz-box-align: baseline;
+      -ms-flex-align: baseline;
+      align-items: baseline; }
       .colored-header .modal-content .modal-body .div__abonemment .fuelux .wizard .steps li:hover {
         background: transparent !important; }
       .colored-header .modal-content .modal-body .div__abonemment .fuelux .wizard .steps li.active span, .colored-header .modal-content .modal-body .div__abonemment .fuelux .wizard .steps li.complete span {
@@ -18795,19 +19042,26 @@ a.label:hover, a.label:focus {
       padding: 20px 4px; }
     @media (max-width: 840px) {
       .colored-header .modal-content .modal-body .fuelux .wizard .steps {
-        -webkit-box-orient: vertical;
-        -webkit-box-direction: normal;
-        -webkit-flex-flow: column;
-        -moz-box-orient: vertical;
-        -moz-box-direction: normal;
-        -ms-flex-flow: column;
-        flex-flow: column; } }
+        /*flex-flow: column;*/ } }
     .colored-header .modal-content .modal-body .fuelux .wizard .steps li {
       width: 50%; }
       @media (max-width: 840px) {
         .colored-header .modal-content .modal-body .fuelux .wizard .steps li {
           width: 100%;
-          padding: 0 20px 0 20px; } }
+          padding: 0 20px 0 20px;
+          font-size: 14px;
+          line-height: 16px;
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: -moz-box;
+          display: -ms-flexbox;
+          display: flex;
+          -webkit-box-align: center;
+          -webkit-align-items: center;
+          -moz-box-align: center;
+          -ms-flex-align: center;
+          align-items: center;
+          text-align: center; } }
       .colored-header .modal-content .modal-body .fuelux .wizard .steps li:last-child span {
         display: none; }
       .colored-header .modal-content .modal-body .fuelux .wizard .steps li.complete:hover {
@@ -19516,8 +19770,8 @@ label {
   .select-chequier .p-dropdown .p-dropdown-panel {
     width: 66px;
     background: #fdfdfd;
-    top: 35px !important;
-    left: -5px !important;
+    top: 42px !important;
+    left: 1px !important;
     position: absolute;
     height: auto;
     border: 1px solid #c8c8c8;
@@ -19526,10 +19780,11 @@ label {
     box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
     width: 100%;
     background: #f5f5f5;
-    z-index: 1; }
+    z-index: 1;
+    display: none; }
     .select-chequier .p-dropdown .p-dropdown-panel .p-dropdown-items-wrapper {
-      overflow: visible;
-      max-height: 100% !important; }
+      overflow: auto;
+      max-height: 124px !important; }
       .select-chequier .p-dropdown .p-dropdown-panel .p-dropdown-items-wrapper ul {
         padding-left: 0;
         padding-right: 0;
@@ -19980,12 +20235,42 @@ label {
 /*------------------------------------------------------------------
 	[Top header]
 */
+.js-hamburger span {
+  font-size: 10px;
+  color: #e67b00; }
+  @media (max-width: 767px) {
+    .js-hamburger span {
+      display: none; } }
+
+.page-header-home .language-bloc svg {
+  position: relative;
+  width: 18px;
+  margin-right: 5px; }
+
+.page-header-home .language-bloc label {
+  color: white;
+  font-size: 11px; }
+
 .page-header-home header .bcp-top-header {
   padding-left: 0;
   padding-right: 0; }
+  @media (max-width: 767px) {
+    .page-header-home header .bcp-top-header {
+      padding-top: 0;
+      padding-bottom: 0; }
+      .page-header-home header .bcp-top-header .navbar-header {
+        padding-top: 8px;
+        padding-bottom: 8px; } }
   .page-header-home header .bcp-top-header .container-fluid {
     padding-left: 0;
     padding-right: 0; }
+  @media (max-width: 767px) {
+    .page-header-home header .bcp-top-header .navbar-brand {
+      width: 100%;
+      text-align: center;
+      margin: 0;
+      padding-left: 0;
+      position: absolute; } }
 
 .page-header-home header .bcp-right-navbar {
   display: -webkit-box;
@@ -20000,7 +20285,11 @@ label {
   align-items: center; }
   @media (max-width: 767px) {
     .page-header-home header .bcp-right-navbar {
-      width: 100%; } }
+      width: 100%;
+      padding-top: 0;
+      position: relative;
+      height: auto;
+      right: 0; } }
   .page-header-home header .bcp-right-navbar .language-bloc {
     border: 0;
     padding-right: 0; }
@@ -20061,7 +20350,7 @@ label {
   padding-top: 139px; }
   @media (max-width: 767px) {
     .bcp-content-home {
-      padding-top: 247px; } }
+      padding-top: 230px; } }
   .bcp-content-home > .bcp-content-home {
     padding-top: 0; }
     @media (max-width: 767px) {
@@ -20086,6 +20375,10 @@ label {
   padding-right: 30px;
   border: 0;
   height: 100px; }
+  @media (max-width: 767px) {
+    .page-header-login .language-bloc {
+      position: absolute;
+      top: 0; } }
   .page-header-login .language-bloc ul {
     top: 80px; }
 
@@ -20154,7 +20447,11 @@ label {
     margin: 0;
     margin-right: 16px;
     border-left: 0;
-    border-right: 1px solid #ccc; }
+    border-right: 1px solid #ccc;
+    position: relative; }
+    @media (max-width: 767px) {
+      .page-header-home .navbar-header .c-header-icon {
+        height: 70px; } }
     .page-header-home .navbar-header .c-header-icon.active .hamburger-toggle {
       height: auto; }
       .page-header-home .navbar-header .c-header-icon.active .hamburger-toggle span {
@@ -20240,7 +20537,8 @@ label {
           font-size: 11px; } }
       @media (max-width: 767px) {
         .page-header-home .bcp-right-navbar .not_connected a {
-          padding: 18px 34px; } }
+          padding: 18px 15px !important;
+          font-size: 12px; } }
       .page-header-home .bcp-right-navbar .not_connected a:hover {
         border-color: transparent; }
       .page-header-home .bcp-right-navbar .not_connected a .icon {
@@ -20280,6 +20578,11 @@ label {
   position: fixed;
   width: 100%;
   z-index: 1900; }
+  @media (max-width: 767px) {
+    .page-header {
+      /*height:100%;*/ }
+      .page-header.full-div {
+        height: 100%; } }
 
 .bcp-top-header {
   opacity: 1;
@@ -20290,6 +20593,10 @@ label {
   -webkit-box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.1);
   box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.1); }
+  @media (max-width: 767px) {
+    .bcp-top-header {
+      padding-top: 5px;
+      padding-bottom: 5px; } }
   .bcp-top-header .navbar-brand svg {
     width: 226px;
     height: 78px; }
@@ -20341,7 +20648,10 @@ label {
       vertical-align: middle; }
       @media (max-width: 767px) {
         .bcp-top-header .navbar-header .navbar-brand {
-          width: auto; } }
+          width: 100%;
+          text-align: left;
+          margin: 0;
+          padding-left: 50px; } }
       @media (min-width: 768px) and (max-width: 991px) {
         .bcp-top-header .navbar-header .navbar-brand {
           margin-right: 10px; } }
@@ -20368,7 +20678,9 @@ label {
         right: 0; }
         @media (max-width: 767px) {
           .bcp-top-header .navbar-nav > li.open .dropdown-menu {
-            left: 0; } }
+            left: auto;
+            right: 0;
+            top: 68px; } }
       .bcp-top-header .navbar-nav > li .dropdown-toggle::after {
         display: none !important; }
       .bcp-top-header .navbar-nav > li > a {
@@ -20478,7 +20790,10 @@ label {
     float: right; }
     @media (max-width: 767px) {
       .bcp-top-header .bcp-right-navbar {
-        width: 100%;
+        padding-top: 0;
+        position: absolute;
+        width: 100px;
+        height: 70px;
         display: -webkit-box;
         display: -webkit-flex;
         display: -moz-box;
@@ -20488,7 +20803,11 @@ label {
         -webkit-justify-content: space-between;
         -moz-box-pack: justify;
         -ms-flex-pack: justify;
-        justify-content: space-between; }
+        justify-content: space-between;
+        padding-top: 0;
+        position: absolute;
+        top: 0;
+        right: 5px; }
         .bcp-top-header .bcp-right-navbar .bcp-icons-nav {
           width: 100%;
           -webkit-box-ordinal-group: 2;
@@ -20502,11 +20821,11 @@ label {
           display: -moz-box;
           display: -ms-flexbox;
           display: flex;
-          -webkit-box-pack: justify;
-          -webkit-justify-content: space-between;
-          -moz-box-pack: justify;
-          -ms-flex-pack: justify;
-          justify-content: space-between;
+          -webkit-box-pack: start;
+          -webkit-justify-content: flex-start;
+          -moz-box-pack: start;
+          -ms-flex-pack: start;
+          justify-content: flex-start;
           -webkit-flex-flow: wrap;
           -ms-flex-flow: wrap;
           flex-flow: wrap; }
@@ -20540,7 +20859,8 @@ label {
             -webkit-align-items: center;
             -moz-box-align: center;
             -ms-flex-align: center;
-            align-items: center; } }
+            align-items: center;
+            margin: 0; } }
       @media (max-width: 767px) {
         .bcp-top-header .bcp-right-navbar .navbar-nav > li > a:focus, .bcp-top-header .bcp-right-navbar .navbar-nav > li > a:active {
           color: #ffffff; }
@@ -20596,10 +20916,10 @@ label {
     .bcp-color-header .bcp-top-header .bcp-right-navbar {
       background-color: #622800; }
     .bcp-color-header .bcp-top-header .navbar-header .navbar-brand {
-      background-image: url("/assets/media/logo-white.png"); }
+      background-image: url("/EBANKING/assets/media/logo-white.png"); }
       @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
         .bcp-color-header .bcp-top-header .navbar-header .navbar-brand {
-          background-image: url("/assets/media/logo-white-xx.png"); } }
+          background-image: url("/EBANKING/assets/media/logo-white-xx.png"); } }
     .bcp-color-header .bcp-top-header .page-title {
       color: #ffffff; }
     .bcp-color-header .bcp-top-header .bcp-right-navbar .navbar-nav > li > a {
@@ -20654,6 +20974,19 @@ label {
 .profil_info_detail {
   display: table-cell;
   vertical-align: middle; }
+
+.souscrire {
+  border-top: 1px solid #bdc0c7;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  margin-bottom: 0;
+  text-transform: uppercase;
+  font-size: 12px; }
+  .souscrire a {
+    text-decoration: underline;
+    padding-left: 8px;
+    font-weight: 600; }
 
 .conseiller_info {
   display: table-cell;
@@ -20816,7 +21149,12 @@ label {
    background-color: #fff;*/
   overflow: hidden;
   vertical-align: middle;
-  margin-right: 20px; }
+  margin-left: 20px;
+  -webkit-box-ordinal-group: 2;
+  -webkit-order: 1;
+  -moz-box-ordinal-group: 2;
+  -ms-flex-order: 1;
+  order: 1; }
 
 .profile_info_txt {
   display: inline-block;
@@ -20884,13 +21222,23 @@ label {
   background: #ea4335; }
 
 .page-header-login .bcp-top-header .navbar-header .navbar-brand {
-  height: 78px; }
+  height: 78px;
+  width: auto; }
 
 .bcp-right-navbar ul:not(.second-nav) li:last-child {
   margin-right: -8px; }
+  @media (max-width: 767px) {
+    .bcp-right-navbar ul:not(.second-nav) li:last-child {
+      margin-right: 0;
+      position: relative;
+      top: 3px; } }
   .bcp-right-navbar ul:not(.second-nav) li:last-child a {
     background: #1e1d1d;
     padding: 8px 10px; }
+    @media (max-width: 767px) {
+      .bcp-right-navbar ul:not(.second-nav) li:last-child a {
+        background: transparent;
+        padding: 0; } }
 
 .bcp-top-header .bcp-icons-nav {
   margin-right: 20px; }
@@ -20916,12 +21264,20 @@ label {
         padding: 0px 15px;
         line-height: 56px;
         display: inline-block; }
+        @media (max-width: 767px) {
+          .bcp-icons-nav > li.dropdown > a .icon.icon-logout {
+            padding: 0 5px; } }
         .bcp-icons-nav > li.dropdown > a .icon.icon-logout svg {
           height: 29px;
           width: 29px;
           display: inline-block;
           vertical-align: middle;
           line-height: 1.2; }
+          @media (max-width: 767px) {
+            .bcp-icons-nav > li.dropdown > a .icon.icon-logout svg {
+              color: black; }
+              .bcp-icons-nav > li.dropdown > a .icon.icon-logout svg g g {
+                fill: black; } }
     .bcp-icons-nav > li.dropdown > a .indicator {
       background-color: #622800;
       -webkit-border-radius: 50%;
@@ -21473,7 +21829,13 @@ label {
     top: 73px; }
     @media (max-width: 767px) {
       .bcp-left-sidebar.hidden-sidebar {
-        top: 80px; } }
+        top: 0px;
+        border: 0 !important;
+        background: transparent;
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+        box-shadow: none;
+        height: 100%; } }
     .bcp-left-sidebar.hidden-sidebar .nav-principal .sidebar-elements > li.submenu > a:before {
       display: none; }
     .bcp-left-sidebar.hidden-sidebar .logo-left {
@@ -21756,7 +22118,7 @@ label {
   padding-right: 0px; }
   @media (max-width: 767px) {
     .bcp-top-header .bcp-right-navbar {
-      padding-top: 7px; } }
+      padding-top: 0px; } }
 
 .bcp-top-header .bcp-icons-nav {
   margin-right: 0px; }
@@ -21820,6 +22182,9 @@ ul.nav.navbar-nav.navbar-right.bcp-icons-nav.second-nav.second-nav {
     background-color: #e67b00;
     overflow: visible !important;
     border-left: 4px solid white; }
+    @media (max-width: 767px) {
+      .bcp-left-sidebar .nav-principal .sidebar-elements > li.current {
+        border-left: 0; } }
     .bcp-left-sidebar .nav-principal .sidebar-elements > li.current > a {
       color: white;
       overflow: visible !important; }
@@ -21831,6 +22196,9 @@ ul.nav.navbar-nav.navbar-right.bcp-icons-nav.second-nav.second-nav {
         border-style: solid;
         border-width: 5px 0 5px 10px;
         border-color: transparent transparent transparent #e67b00; }
+        @media (max-width: 767px) {
+          .bcp-left-sidebar .nav-principal .sidebar-elements > li.current > a:before {
+            display: none; } }
       .bcp-left-sidebar .nav-principal .sidebar-elements > li.current > a .icon svg path, .bcp-left-sidebar .nav-principal .sidebar-elements > li.current > a .icon svg rect, .bcp-left-sidebar .nav-principal .sidebar-elements > li.current > a .icon svg ellipse {
         fill: #fff !important; }
   .bcp-left-sidebar .nav-principal .sidebar-elements > li.submenu > a:before {
@@ -21853,6 +22221,9 @@ ul.nav.navbar-nav.navbar-right.bcp-icons-nav.second-nav.second-nav {
       left: 0;
       right: 0;
       margin: 0 auto; }
+      @media (max-width: 767px) {
+        .bcp-left-sidebar .nav-principal .sidebar-elements > li > a:after {
+          display: none; } }
   .bcp-left-sidebar .nav-principal .sidebar-elements > li a {
     text-transform: uppercase;
     padding-right: 20px; }
@@ -21868,7 +22239,8 @@ ul.nav.navbar-nav.navbar-right.bcp-icons-nav.second-nav.second-nav {
         -moz-box-align: center;
         -ms-flex-align: center;
         align-items: center;
-        padding: 25px 18px; } }
+        padding: 11px;
+        font-size: 12px; } }
     .bcp-left-sidebar .nav-principal .sidebar-elements > li a .icon {
       margin-top: 2px;
       -webkit-border-radius: 50%;
@@ -21905,10 +22277,17 @@ ul.nav.navbar-nav.navbar-right.bcp-icons-nav.second-nav.second-nav {
       .bcp-left-sidebar .nav-principal .sidebar-elements > li a .icon svg {
         height: 34px;
         width: 36px; }
+        @media (max-width: 767px) {
+          .bcp-left-sidebar .nav-principal .sidebar-elements > li a .icon svg {
+            width: 22px;
+            height: 22px; } }
         .bcp-left-sidebar .nav-principal .sidebar-elements > li a .icon svg path, .bcp-left-sidebar .nav-principal .sidebar-elements > li a .icon svg rect, .bcp-left-sidebar .nav-principal .sidebar-elements > li a .icon svg ellipse {
           fill: #fff; }
   .bcp-left-sidebar .nav-principal .sidebar-elements > li.open, .bcp-left-sidebar .nav-principal .sidebar-elements > li:hover {
     border-left: 4px solid white; }
+    @media (max-width: 767px) {
+      .bcp-left-sidebar .nav-principal .sidebar-elements > li.open, .bcp-left-sidebar .nav-principal .sidebar-elements > li:hover {
+        border-left: 0; } }
     .bcp-left-sidebar .nav-principal .sidebar-elements > li.open svg path, .bcp-left-sidebar .nav-principal .sidebar-elements > li.open svg rect, .bcp-left-sidebar .nav-principal .sidebar-elements > li.open svg ellipse, .bcp-left-sidebar .nav-principal .sidebar-elements > li:hover svg path, .bcp-left-sidebar .nav-principal .sidebar-elements > li:hover svg rect, .bcp-left-sidebar .nav-principal .sidebar-elements > li:hover svg ellipse {
       fill: white !important; }
     .bcp-left-sidebar .nav-principal .sidebar-elements > li.open > a, .bcp-left-sidebar .nav-principal .sidebar-elements > li:hover > a {
@@ -21958,6 +22337,9 @@ ul.nav.navbar-nav.navbar-right.bcp-icons-nav.second-nav.second-nav {
       display: table;
       width: 100%;
       height: 100px; }
+      @media (max-width: 767px) {
+        .bcp-left-sidebar .nav-principal .sidebar-elements > li > ul div.submenu-title {
+          display: none; } }
       .bcp-left-sidebar .nav-principal .sidebar-elements > li > ul div.submenu-title span {
         font-size: 24px;
         color: white;
@@ -21984,6 +22366,9 @@ ul.nav.navbar-nav.navbar-right.bcp-icons-nav.second-nav.second-nav {
       margin: 0 20px;
       padding-left: 10px;
       line-height: 1.6; }
+      @media (max-width: 767px) {
+        .bcp-left-sidebar .nav-principal .sidebar-elements > li > ul div ul.submenu-accordion > li > .submenu-accordion_title {
+          padding: 7px 25px; } }
       .bcp-left-sidebar .nav-principal .sidebar-elements > li > ul div ul.submenu-accordion > li > .submenu-accordion_title:before {
         content: '\f2f9';
         float: right;
@@ -22403,7 +22788,7 @@ ul.nav.navbar-nav.navbar-right.bcp-icons-nav.second-nav.second-nav {
       padding-top: 73px; } }
   @media (max-width: 767px) {
     .bcp-content {
-      padding-top: 156px; } }
+      padding-top: 80px; } }
   @media (max-width: 767px) {
     .bcp-content {
       margin-left: 0; } }
@@ -22533,16 +22918,45 @@ ul.nav.navbar-nav.navbar-right.bcp-icons-nav.second-nav.second-nav {
     color: white; }
     .page-head-compte .page-head-title {
       font-size: 23px; }
+      @media (max-width: 767px) {
+        .page-head-compte .page-head-title {
+          font-size: 18px; } }
+    .page-head-compte .left_title_dashboard {
+      width: 100%; }
     .page-head-compte .left-col .left__top {
       display: -webkit-box;
       display: -webkit-flex;
       display: -moz-box;
       display: -ms-flexbox;
       display: flex; }
-      .page-head-compte .left-col .left__top.col-bienvenue span {
-        font-size: 15px;
-        display: block;
-        width: 100%; }
+      @media (max-width: 767px) {
+        .page-head-compte .left-col .left__top {
+          -webkit-box-align: center;
+          -webkit-align-items: center;
+          -moz-box-align: center;
+          -ms-flex-align: center;
+          align-items: center; } }
+      .page-head-compte .left-col .left__top.col-bienvenue {
+        -webkit-box-pack: end;
+        -webkit-justify-content: flex-end;
+        -moz-box-pack: end;
+        -ms-flex-pack: end;
+        justify-content: flex-end; }
+        .page-head-compte .left-col .left__top.col-bienvenue h2 {
+          -webkit-box-align: center;
+          -webkit-align-items: center;
+          -moz-box-align: center;
+          -ms-flex-align: center;
+          align-items: center;
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: -moz-box;
+          display: -ms-flexbox;
+          display: flex; }
+        .page-head-compte .left-col .left__top.col-bienvenue span {
+          font-size: 15px;
+          display: none;
+          width: 100%; }
       .page-head-compte .left-col .left__top .popin_btn {
         background: transparent;
         border: 0;
@@ -22644,6 +23058,10 @@ ul.nav.navbar-nav.navbar-right.bcp-icons-nav.second-nav.second-nav {
     background-color: transparent;
     padding: 3px 0;
     margin-bottom: 7px; }
+    @media (max-width: 767px) {
+      .page-head .breadcrumb {
+        margin-bottom: 0;
+        padding-bottom: 7px; } }
     .page-head .breadcrumb > li {
       color: white;
       font-weight: 300;
@@ -22667,7 +23085,10 @@ ul.nav.navbar-nav.navbar-right.bcp-icons-nav.second-nav.second-nav {
       padding: 18px 15px 0;
       display: none; }
       .page-head-title {
-        line-height: 28px; } }
+        line-height: 28px;
+        font-weight: bold;
+        text-transform: uppercase;
+        font-size: 19px; } }
 
 /*------------------------------------------------------------------
   [Page aside]
@@ -24893,7 +25314,8 @@ li.L9 {
       width: 36%;
       max-width: 36%;
       color: #878787;
-      font-weight: bold; }
+      font-weight: bold;
+      text-transform: uppercase; }
       @media (max-width: 767px) {
         .panel-heading-divider .row .col-md-6:first-child {
           width: 100%;
@@ -25644,6 +26066,23 @@ label {
   vertical-align: middle;
   padding-left: 12px;
   margin-left: 7px; }
+  @media (max-width: 767px) {
+    .c-header-icon {
+      position: absolute;
+      left: 0;
+      top: 0;
+      border: 0;
+      padding-left: 0;
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -moz-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      -moz-box-align: center;
+      -ms-flex-align: center;
+      align-items: center; } }
 
 .c-header-icon i {
   font-size: 18px;
@@ -25665,6 +26104,9 @@ label {
   display: inline-block;
   text-align: right;
   float: right; }
+  @media (max-width: 767px) {
+    .panel.panel-contrast.otp-conf ul li span {
+      float: none; } }
   .panel.panel-contrast.otp-conf ul li span strong.currency {
     color: black;
     font-family: Roboto-Light, sans-serif;
@@ -25842,7 +26284,7 @@ label {
       flex-flow: column; }
       .connexion .left__col h2:before {
         /*content: "";*/
-        background: url(/assets/media/images/lock.svg) no-repeat;
+        background: url(/EBANKING/assets/media/images/lock.svg) no-repeat;
         font-family: "Material Icons";
         -moz-background-size: 55px;
         background-size: 55px;
@@ -25941,7 +26383,7 @@ label {
           font-size: 18px; } }
       .connexion .right__col h2:before {
         /*content: "";*/
-        background: url(/assets/media/images/user.svg) no-repeat;
+        background: url(/EBANKING/assets/media/images/user.svg) no-repeat;
         width: 45px;
         height: 45px;
         display: block;
@@ -25952,7 +26394,8 @@ label {
         left: 0; }
       .connexion .right__col h2 .logo-user {
         max-width: 40px;
-        margin-right: 15px; }
+        margin-right: 15px;
+        height: 40px; }
     .connexion .right__col p {
       text-align: left; }
 
@@ -26052,6 +26495,9 @@ label {
   .login-submit .btn {
     width: 40%;
     background-color: #e67b00; }
+    @media (max-width: 767px) {
+      .login-submit .btn {
+        width: auto; } }
     .login-submit .btn:hover {
       border-color: #e67b00;
       opacity: 0.9; }
@@ -27905,7 +28351,8 @@ th {
     position: absolute;
     width: 4px;
     left: 0;
-    top: 0; }
+    top: 0;
+    min-height: 90px; }
   .negative_transaction span {
     width: 100%; }
 
@@ -27933,7 +28380,8 @@ th {
     position: absolute;
     width: 4px;
     left: 0;
-    top: 0; }
+    top: 0;
+    min-height: 90px; }
   .positif_transaction span {
     width: 100%; }
 
@@ -28057,11 +28505,19 @@ th {
           .p-datatable-wrapper table thead tr th .p-calendar .p-datepicker-header .p-datepicker-prev span:hover:before, .p-datatable-wrapper table thead tr th .p-calendar .p-datepicker-header .p-datepicker-next span:hover:before {
             color: #e67b00; }
         .p-datatable-wrapper table thead tr th .p-calendar .p-datepicker-header .p-datepicker-prev {
-          left: 0; }
+          left: 0;
+          top: 50%;
+          -webkit-transform: translateY(-50%);
+          -moz-transform: translateY(-50%);
+          transform: translateY(-50%); }
           .p-datatable-wrapper table thead tr th .p-calendar .p-datepicker-header .p-datepicker-prev span:before {
             content: "\f2f3"; }
         .p-datatable-wrapper table thead tr th .p-calendar .p-datepicker-header .p-datepicker-next {
-          right: 0; }
+          right: 0;
+          top: 50%;
+          -webkit-transform: translateY(-50%);
+          -moz-transform: translateY(-50%);
+          transform: translateY(-50%); }
           .p-datatable-wrapper table thead tr th .p-calendar .p-datepicker-header .p-datepicker-next span:before {
             content: "\f2f5"; }
       .p-datatable-wrapper table thead tr th .p-calendar .p-datepicker-buttonbar {
@@ -28167,7 +28623,8 @@ th {
   .p-datatable-wrapper table tbody tr td {
     padding: 10px 8px 10px 8px; }
     .p-datatable-wrapper table tbody tr td.td-dateclass {
-      position: relative; }
+      position: relative;
+      overflow: hidden; }
     .p-datatable-wrapper table tbody tr td span.text-light {
       display: block;
       width: 100%; }
@@ -28270,6 +28727,9 @@ th {
   .p-paginator .p-dropdown {
     position: absolute;
     left: 44px; }
+    @media (max-width: 767px) {
+      .p-paginator .p-dropdown {
+        left: 25px; } }
     .p-paginator .p-dropdown .p-hidden {
       display: none; }
     .p-paginator .p-dropdown .p-input-overlay-visible {
@@ -28579,6 +29039,46 @@ th {
   .page-footer-home ul li a {
     font-size: 16px;
     color: #404040; }
+
+.slider-dashboard .slick-dots {
+  position: absolute;
+  bottom: 25px;
+  display: -webkit-box !important;
+  display: -webkit-flex !important;
+  display: -moz-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -moz-box-pack: end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  padding-right: 10px;
+  width: 100%;
+  margin-bottom: 0; }
+  .slider-dashboard .slick-dots li {
+    list-style: none;
+    width: 18px;
+    height: 18px;
+    margin-right: 5px; }
+    .slider-dashboard .slick-dots li button {
+      border: 0;
+      background-color: #e6e4e3;
+      -webkit-border-radius: 0;
+      -moz-border-radius: 0;
+      border-radius: 0;
+      width: 100%;
+      height: 100%;
+      font-size: 0;
+      -webkit-border-radius: 50%;
+      -moz-border-radius: 50%;
+      border-radius: 50%;
+      cursor: pointer;
+      outline: none; }
+    .slider-dashboard .slick-dots li.slick-active {
+      height: 18px; }
+      .slider-dashboard .slick-dots li.slick-active button {
+        background-color: #e67b00; }
 
 .slider-home {
   background: -webkit-gradient(linear, left top, left bottom, from(#e5e5e5), to(#f8f8f8));
@@ -29137,7 +29637,7 @@ th {
         flex-flow: wrap; } }
     .block-faq .contact-list a {
       margin-right: 10px;
-      display: table-cell;
+      display: block;
       width: 25%;
       border: 1px solid #dbd0d1;
       background: #fff;
@@ -30164,6 +30664,9 @@ img {
 
 .bcp-content-home .colored-header .modal-content .modal-body {
   overflow-y: visible; }
+  @media (min-width: 768px) and (max-width: 991px) {
+    .bcp-content-home .colored-header .modal-content .modal-body {
+      overflow: auto; } }
   @media (max-width: 767px) {
     .bcp-content-home .colored-header .modal-content .modal-body {
       overflow: auto; } }
@@ -30190,25 +30693,43 @@ img {
       right: 0;
       padding-right: 9px;
       z-index: 9; } }
-  .localisation:hover:before {
-    -webkit-transform: scale(1.2);
-    -moz-transform: scale(1.2);
-    transform: scale(1.2); }
-  .localisation:before {
-    content: '\f1ab';
-    font-family: "Material Icons";
-    font-size: 35px;
-    color: #e67b00;
-    -webkit-transition: -webkit-transform .2s;
-    transition: -webkit-transform .2s;
-    -moz-transition: transform .2s, -moz-transform .2s;
-    transition: transform .2s;
-    transition: transform .2s, -webkit-transform .2s, -moz-transform .2s;
+  .localisation:hover a:before {
     -webkit-transform: scale(1);
     -moz-transform: scale(1);
     transform: scale(1);
-    position: relative;
-    top: -4px; }
+    color: #e67b00; }
+  .localisation a {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -moz-box-align: center;
+    -ms-flex-align: center;
+    align-items: center; }
+    .localisation a:before {
+      content: '\f1ab';
+      font-family: "Material Icons";
+      font-size: 26px;
+      color: #fff;
+      -webkit-transition: -webkit-transform .2s;
+      transition: -webkit-transform .2s;
+      -moz-transition: transform .2s, -moz-transform .2s;
+      transition: transform .2s;
+      transition: transform .2s, -webkit-transform .2s, -moz-transform .2s;
+      -webkit-transform: scale(0.8);
+      -moz-transform: scale(0.8);
+      transform: scale(0.8);
+      position: relative;
+      top: -4px;
+      -webkit-box-ordinal-group: 2;
+      -webkit-order: 1;
+      -moz-box-ordinal-group: 2;
+      -ms-flex-order: 1;
+      order: 1;
+      margin-left: 10px; }
 
 .div__abonemment {
   padding-bottom: 0px; }
@@ -30513,6 +31034,27 @@ img {
         .small_top_header ul li .language-bloc .language-switcher-locale-url {
           display: none; }
 
+.browser-style {
+  max-width: 800px;
+  margin: 0 auto;
+  padding-top: 100px;
+  text-align: center; }
+  .browser-style:before {
+    content: "\f1f7";
+    font-family: "Material Icons";
+    font-size: 80px;
+    margin-bottom: 20px;
+    font-weight: normal;
+    display: block; }
+  .browser-style h1 {
+    font-size: 28px;
+    font-weight: bold; }
+  .browser-style h3 {
+    font-size: 16px; }
+  .browser-style a {
+    margin-top: 30px;
+    padding: 14px 30px; }
+
 /*------------------------------------------------------------------
   [Custom pages]
 */
@@ -30627,6 +31169,9 @@ img {
           width: 100%; } }
       .rib_content .rib_top .left_rib_top th {
         padding-right: 15px; }
+      .rib_content .rib_top .left_rib_top tfoot tr td:last-child {
+        max-width: 100px;
+        word-break: break-word; }
     .rib_content .rib_top .right_rib_top {
       width: 40%;
       padding: 15px;
@@ -30706,6 +31251,8 @@ img {
 
 .chequier .step-content {
   border: 0 !important; }
+  .chequier .step-content .form-footer {
+    margin-top: 90px; }
   .chequier .step-content .btn {
     padding: 12px 30px;
     margin: 0 3px; }
@@ -30743,32 +31290,61 @@ img {
         .chequier .step-content .form-group .qnty {
           margin-left: 0 !important;
           margin-top: 20px; } }
-      .chequier .step-content .form-group .qnty span button {
-        background-color: #e67b00;
-        border: 0;
-        color: white;
-        width: 22px;
-        height: 22px;
-        -webkit-border-radius: 41px;
-        -moz-border-radius: 41px;
-        border-radius: 41px; }
-      .chequier .step-content .form-group .qnty span input {
-        max-width: 44px;
-        border: 1px solid #c3c3c3;
-        height: 21px;
-        text-align: center;
-        font-size: 13px; }
+      .chequier .step-content .form-group .qnty > span {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+        -webkit-align-items: center;
+        -moz-box-align: center;
+        -ms-flex-align: center;
+        align-items: center; }
+        .chequier .step-content .form-group .qnty > span span {
+          background-color: #e67b00;
+          border: 0;
+          color: white;
+          width: 22px;
+          height: 22px;
+          -webkit-border-radius: 0px;
+          -moz-border-radius: 0px;
+          border-radius: 0px;
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: -moz-box;
+          display: -ms-flexbox;
+          display: flex;
+          padding: 0;
+          -webkit-box-align: center;
+          -webkit-align-items: center;
+          -moz-box-align: center;
+          -ms-flex-align: center;
+          align-items: center;
+          -webkit-box-pack: center;
+          -webkit-justify-content: center;
+          -moz-box-pack: center;
+          -ms-flex-pack: center;
+          justify-content: center;
+          cursor: pointer; }
+        .chequier .step-content .form-group .qnty > span input {
+          max-width: 44px;
+          border: 1px solid #c3c3c3;
+          height: 22px;
+          text-align: center;
+          font-size: 13px; }
     .chequier .step-content .form-group .line-choice {
       display: -webkit-box;
       display: -webkit-flex;
       display: -moz-box;
       display: -ms-flexbox;
       display: flex;
-      -webkit-box-pack: center;
-      -webkit-justify-content: center;
-      -moz-box-pack: center;
-      -ms-flex-pack: center;
-      justify-content: center; }
+      -webkit-box-pack: start;
+      -webkit-justify-content: flex-start;
+      -moz-box-pack: start;
+      -ms-flex-pack: start;
+      justify-content: flex-start;
+      margin-left: 20px; }
       @media (max-width: 767px) {
         .chequier .step-content .form-group .line-choice {
           -webkit-box-orient: vertical;
@@ -30819,6 +31395,23 @@ img {
 
 .simulator_wrapper {
   padding: 25px 130px; }
+  .simulator_wrapper .form-pay-txt {
+    height: auto !important; }
+    .simulator_wrapper .form-pay-txt .select-pay .p-dropdown label {
+      margin-right: 0;
+      padding: 0 !important; }
+    .simulator_wrapper .form-pay-txt .select-pay .p-dropdown .p-dropdown-panel {
+      top: 28px !important;
+      left: 8px !important;
+      width: 57px !important; }
+      .simulator_wrapper .form-pay-txt .select-pay .p-dropdown .p-dropdown-panel .p-dropdown-items-wrapper {
+        max-height: 124px !important;
+        overflow: auto; }
+        .simulator_wrapper .form-pay-txt .select-pay .p-dropdown .p-dropdown-panel .p-dropdown-items-wrapper ul li img {
+          margin: 0 0px 0 0px !important;
+          max-height: 13px !important;
+          width: 38px !important;
+          height: 13px !important; }
   @media (max-width: 767px) {
     .simulator_wrapper {
       padding: 25px 10px; } }
@@ -30838,33 +31431,64 @@ img {
             margin: 15px 0; } }
       .simulator_wrapper.design-two .simulator_item .form-group {
         position: absolute;
-        margin-top: -70px;
-        min-width: 165px; }
+        margin-top: 36px;
+        min-width: 220px; }
+        @media (max-width: 767px) {
+          .simulator_wrapper.design-two .simulator_item .form-group {
+            position: relative;
+            margin-top: 0;
+            min-width: 100%;
+            left: 0 !important;
+            width: 100%;
+            -webkit-box-pack: center;
+            -webkit-justify-content: center;
+            -moz-box-pack: center;
+            -ms-flex-pack: center;
+            justify-content: center; } }
         .simulator_wrapper.design-two .simulator_item .form-group:after {
           content: '';
           display: block;
           position: absolute;
           margin: auto;
-          bottom: -8px;
+          top: -8px;
           width: 15px;
           height: 15px;
           -webkit-transform: rotate(-135deg);
           -moz-transform: rotate(-135deg);
           transform: rotate(-135deg);
-          border-left: 1px solid #B9C1CA;
-          border-top: 1px solid #B9C1CA;
+          border-right: 1px solid #B9C1CA;
+          border-bottom: 1px solid #B9C1CA;
           background: #fff;
           z-index: 1;
           left: 15px;
           right: auto;
           margin: 0 auto; }
+          @media (max-width: 767px) {
+            .simulator_wrapper.design-two .simulator_item .form-group:after {
+              display: none; } }
         .simulator_wrapper.design-two .simulator_item .form-group input {
           background: white;
-          max-width: 75px; }
+          max-width: 75px;
+          padding-right: 23px;
+          min-width: 130px;
+          /* Chrome, Safari, Edge, Opera */
+          /* Firefox */ }
+          .simulator_wrapper.design-two .simulator_item .form-group input::-webkit-outer-spin-button, .simulator_wrapper.design-two .simulator_item .form-group input::-webkit-inner-spin-button {
+            -webkit-appearance: none;
+            margin: 0; }
+          .simulator_wrapper.design-two .simulator_item .form-group input[type=number] {
+            -moz-appearance: textfield; }
         .simulator_wrapper.design-two .simulator_item .form-group .devise {
           background-color: #a0a0a0;
           padding-left: 8px;
-          padding-right: 8px; }
+          padding-right: 8px;
+          position: relative; }
+          .simulator_wrapper.design-two .simulator_item .form-group .devise:before {
+            content: "\f158";
+            font-family: "Material Icons";
+            position: absolute;
+            left: -16px;
+            color: #b6b5b5; }
       .simulator_wrapper.design-two .simulator_item .col-xs-12 {
         display: -webkit-box;
         display: -webkit-flex;
@@ -30914,7 +31538,8 @@ img {
           border-radius: 50%;
           background-color: #faf9f9;
           top: -10px;
-          outline: none; }
+          outline: none;
+          cursor: pointer; }
           @media (max-width: 767px) {
             .simulator_wrapper.design-two .simulator_item .p-slider.p-slider-horizontal .p-slider-handle {
               width: 25px;
@@ -31030,7 +31655,7 @@ img {
         -moz-border-radius: 0%;
         border-radius: 0%;
         margin-left: 0;
-        cursor: default;
+        cursor: pointer;
         -ms-touch-action: none;
         touch-action: none; }
 
@@ -31190,7 +31815,7 @@ img {
       -moz-border-radius: 0%;
       border-radius: 0%;
       margin-left: 0;
-      cursor: default;
+      cursor: pointer;
       -ms-touch-action: none;
       touch-action: none; }
 
@@ -31234,18 +31859,40 @@ img {
   .table-last-operation table tbody tr td:last-child {
     text-align: right; }
 
+.recharts-legend-wrapper h3 {
+  font-weight: 900;
+  font-size: 18px;
+  margin-bottom: 30px;
+  text-transform: uppercase; }
+
+.back-to-top {
+  z-index: 9; }
+
+.recharts-legend-wrapper:before {
+  content: "";
+  width: 1px;
+  height: 70%;
+  left: 0;
+  background: #e8e8e8;
+  position: absolute;
+  left: 0px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  transform: translateY(-50%); }
+  @media (max-width: 767px) {
+    .recharts-legend-wrapper:before {
+      display: none; } }
+
 .recharts-legend-wrapper {
-  padding: 24px 0px 24px 40px !important; }
+  padding: 24px 23px 24px 40px !important;
+  margin-top: 10px !important; }
   @media (max-width: 767px) {
     .recharts-legend-wrapper {
-      position: relative !important;
       width: 100% !important;
-      margin-top: -40px;
-      padding: 0 !important;
-      width: 100% !important;
-      padding: 0 !important;
       max-width: 100% !important;
-      left: 0 !important; }
+      left: 0 !important;
+      padding-left: 0 !important; }
       .recharts-legend-wrapper table {
         display: block;
         overflow: auto; } }
@@ -31264,7 +31911,8 @@ img {
       background: #eaeaea; }
     .recharts-legend-wrapper table tbody tr td, .table-last-operation table tbody tr td {
       padding: 10px 15px;
-      position: relative; }
+      position: relative;
+      overflow: hidden; }
       .recharts-legend-wrapper table tbody tr td.align_right, .table-last-operation table tbody tr td.align_right {
         text-align: right;
         padding-right: 30px; }
@@ -31304,7 +31952,10 @@ img {
         position: absolute;
         height: 100%;
         top: 0;
-        left: 0; }
+        left: 0;
+        min-height: 90px; }
+      .recharts-legend-wrapper table tbody tr td button, .table-last-operation table tbody tr td button {
+        font-size: 12px; }
 
 .recharts-brush-texts tspan {
   font-size: 18px !important;
