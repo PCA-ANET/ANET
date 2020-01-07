@@ -10658,7 +10658,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 */
 @font-face {
   font-family: 'Roboto';
-  src: url("/EBANKING/EBANKING/assets/media/fonts/Roboto/Roboto-Thin.eot");
+  src: url("/EBANKING/assets/media/fonts/Roboto/Roboto-Thin.eot");
   src: local("Roboto Thin"), local("Roboto-Thin"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Thin.eot?#iefix") format("embedded-open$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Thin.woff2") format("woff2"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Thin.woff") format("woff"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Thin.ttf") format("true$type"), url("/EBANKING/assets/media/fonts/Roboto/Roboto-Thin.svg#Roboto") format("svg");
   font-weight: 100;
   font-style: normal; }
@@ -16049,7 +16049,28 @@ main.app {
   .page-login .page-content {
     zoom: 0.94; } }
 
+.slider-dashboard .slider-image {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -moz-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -moz-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center; }
+
 @media only screen and (min-width: 1300px) {
+  .page-content {
+    zoom: 0.7; } }
+
+@media only screen and (min-width: 1430px) {
   .page-content {
     zoom: 0.8; } }
 
@@ -16141,10 +16162,14 @@ p {
   .champs_obligatoires sup {
     margin-right: 5px; }
 
-.table-last-operation__dashboard table {
-  display: block;
-  overflow-y: scroll;
-  max-height: 280px; }
+.table-last-operation__dashboard table thead th:first-child {
+  width: 130px; }
+
+.table-last-operation__dashboard table thead th:nth-child(2) {
+  width: 165px; }
+
+.table-last-operation__dashboard table thead th:nth-child(4) {
+  width: 145px; }
 
 .close-menu {
   display: block;
